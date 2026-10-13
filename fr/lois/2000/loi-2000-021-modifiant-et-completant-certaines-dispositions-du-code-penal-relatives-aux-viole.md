@@ -1,0 +1,48 @@
+---
+title: "Loi n° 2000-021 modifiant et complétant certaines dispositions du Code Pénal relatives aux viole"
+identifier: "Loi n° 2000-021"
+type: law
+jurisdiction: mg
+language: fr
+year: "2000"
+status: unknown
+source: "https://pub-7e0d3a35c1b949698a7ced344fa56252.r2.dev/archives_textes/pl/2000-021/Loi-n-2000-021-modifiant-et-compl%C3%A9tant-certaines-disposition_jFtxXCC.pdf"
+retrieved: 2026-10-13
+note: "Assemblée nationale de Madagascar — Projet de loi (archive)"
+---
+
+# Loi n° 2000-021 modifiant et complétant certaines dispositions du Code Pénal relatives aux viole
+
+REPOBLIKAN'I MADAGASIKARA Tanindrazana - Fahafahana - Fandrosoana ASSEMBLEE NATIONALE LOI n° 2000 - 021 modifiant et complétant certaines dispositions du Code Pénal relatives aux violences sur les femmes et aux infractions sur les moeurs EXPOSE DES MOTIFS De nombreuses Conférences internationales ou régionales sur les femmes ont toutes établi d'une manière probante que l'inégalité de sexe est un frein à la croissance économique et à la lutte contre la pauvreté et que les violences à l'égard des femmes est un de nombreux facteurs qui font obstacle à une croissance équilibrée. Les violences contre les femmes sont profondément ancrées dans notre société. Le silence complice de la société et l'acceptation passive de leur sort maintiennent les femmes dans une insécurité permanente. Ainsi, il faudra mener la lutte sur tous les plans juridique, politique, économique, social et culturel pour aboutir à un changement de comportement et de mentalité. Sur le plan pénal, le Chapitre I du Titre II du Livre III de notre Code Pénal intitulé : « Crimes et délits contre les particuliers », prévoit la répression des atteintes à l'intégrité corporelle sans discrimination de sexe. Il faudra y introduire les quelques cas particuliers où la femme mérite une protection particulière. Les attentats aux moeurs sont régis par la Section IV de ce Chapitre. Il convient de rappeler que la Loi n° 98-024 du 17 décembre 1998 portant refonte du Code Pénal concernant la pédophilie a déjà introduit des modifications importantes relatives aux nouvelles formes de délinquance mettant en danger les mineurs. L'évolution actuelle des moeurs nécessite l'élargissement des notions traditionnelles actuellement dépassées et la prévision de certaines infractions. Sur les violences physiques Le droit à l'intégrité physique est la même pour l'homme que pour la femme et toute atteinte doit être réprimée. Cependant, il faut reconnaître qu'il
+
+y a certaines situations où la femme a besoin de protection légale particulière. Ce sont :  le cas de la femme qui subit les mauvais traitements et les sévices du
+
+mari : certaine vit quotidiennement dans la peur et dans l'insécurité, se trouvant à la merci d'un mari qui la considère comme un objet en sa possession, qui peut la traiter et la battre comme bon lui semble. Cette violence dite conjugale qui a lieu dans le foyer est considérée comme une affaire privée et familiale. Or, c'est dans ce genre de foyer que les enfants s'imprègnent de la violence dès leur jeune âge, qu'ils perpétuent ensuite dans leur comportement et les transmettent à leur tour à leur progéniture. Ce cycle doit être brisé pour que la nouvelle génération soit porteuse d'un changement positif et d'une attitude valorisante à l'égard de la femme.  le cas de la femme en état de grossesse : elle est plus vulnérable compte
+
+tenu de son état, les violences portées à son encontre risquent d'avoir des répercussions néfastes sur l'enfant, le fait sera plus gravement réprimé si un avortement s'en suit. Les articles 309 et suivants du Code Pénal répriment les coups et blessures volontaires et autres violences et voies de fait. L'article 312 rassemble les cas relatifs à ces infractions commises au sein de la famille. C'est dans cet article qu'il conviendra d'introduire le conjoint parmi les personnes qui méritent une bienveillance particulière. Il y a lieu de créer un article 312 bis pour les violences commises sur la femme en état de grossesse et l'avortement à la suite des coups constituera un cas d'aggravation des peines. En outre, si l'auteur de ces actes est le conjoint de la victime, cela constitue un motif supplémentaire d'aggravation. Sur les violences sexuelles. Les articles 332 et suivants du Code Pénal prévoient et répriment les cas de viol sans en donner une définition. Pour dépasser la notion traditionnelle de conjonction normale mais illicite de sexe, la notion a été élargie pour tenir compte de l'évolution actuelle des moeurs. Le viol se définit comme : « tout acte de pénétration sexuelle, de quelque nature qu'il soit, commis sur la personne d'autrui par violence, contrainte, menace ou surprise ». Cette définition permettra d'une part de faire une extension du champ d'application de l'article 332 du Code Pénal aux différentes sortes d'actes de pénétration sexuelle : ce qui inclut soit que le sexe pénètre (pénétration vaginale, buccale, anale...) soit que le sexe est pénétré (insertion d'objet, de
+
+corps étranger...) et d'autre part d'introduire les notions de violence, de contrainte, de surprise comme étant les éléments essentiels de l'infraction caractérisant l'absence de consentement. La victime peut être une femme ou un homme. Maintes fois dénoncé dans de nombreux lieux de travail, dans certains services et même dans des établissements d'enseignement, le délit de harcèlement sexuel n'est pas encore réprimé dans la législation malgache. La prévision de ce délit permettra de sanctionner quiconque, abusant de l'autorité que lui confèrent ses fonctions, use de menaces ou de contraintes, exerce des pressions graves sur une personne, afin d'obtenir des faveurs de nature sexuelle, mais également, ceux qui subordonnent l'accomplissement d'un acte relevant de ses fonctions ou l'obtention d'un avantage quelconque à des faveurs sexuelles. Tel est l'objet de la présente Loi.
+
+REPOBLIKAN'I MADAGASIKARA Tanindrazana - Fahafahana - Fandrosoana ASSEMBLEE NATIONALE LOI n° 2000 - 021 modifiant et complétant certaines dispositions du Code Pénal relatives aux violences sur les femmes et aux infractions sur les moeurs L'Assemblée Nationale a adopté en sa séance du 12 o ctobre 2000, la Loi dont la teneur suit :
+
+## Article premier
+
+Le Chapitre I du Titre II du Livre III du Code Pénal est modifié et complété comme suit : Article 312 alinéa 1 : Quiconque aura volontairement fait des blessures ou porté des coups à ses père ou mère légitimes, naturels ou adoptifs, ou autres ascendants légitimes, ou à son conjoint sera puni ainsi qu'il suit . (Le reste de l'article sans changement).
+
+## Article 312 bis
+
+Quiconque aura volontairement fait des blessures ou porté des coups à une femme en état de grossesse apparente ou connue de l'auteur sera puni de deux à cinq ans d'emprisonnement et de 500.000 à 2.000.000 francs d'amende si les blessures et les coups n'ont occasionné aucune maladie ou incapacité de travail personnel de l'espèce mentionnée à l'article 309. S'il en est résulté une maladie ou une incapacité de travail personnel de vingt jours, ou un avortement, ou s'il y a eu préméditation ou guet-apens, la peine sera de cinq à dix ans d'emprisonnement et de 1. 000.000 à 5. 000.000 francs d'amende. Si les violences ont été suivies de mutilation, amputation ou privation de l'usage d'un membre, ou toute autre infirmité permanente ou si elles ont occasionné la mort sans intention de la donner, la peine sera celle des travaux forcés à temps. Si en outre, le coupable est le conjoint de la victime, la peine sera de cinq à dix ans dans le cas prévu à l'alinéa 1, des travaux forcés à temps dans le cas prévu à l'alinéa 2 et celle des travaux forcés à perpétuité dans le cas prévu à l'alinéa 3.
+
+## Article 332
+
+Tout acte de pénétration sexuelle, de quelque nature qu'il soit, commis sur la personne d'autrui par violence, contrainte, menace ou surprise est un viol. Le viol est puni des travaux forcés à temps s'il a été commis sur la personne d'un enfant au dessous de l'âge de quinze ans accomplis ou sur une femme en état de grossesse apparente ou connue de l'auteur. Dans les autres cas, le viol ou la tentative de viol est passible de la peine de cinq à dix ans d'emprisonnement. Quiconque aura commis un attentat à la pudeur, consommé ou tenté avec violence contre un enfant au dessous de l'âge de quinze ans ou contre une femme en état de grossesse apparente ou connue de l'auteur sera puni des travaux forcés à temps. Dans les autres cas, la peine sera de deux à cinq ans d'emprisonnement.
+
+## Article 333 bis
+
+Quiconque aura subordonné l'accomplissement d'un service ou d'un acte relevant de sa fonction à l'obtention de faveurs de nature sexuelle ou qui exige à une personne des faveurs de même nature avant de lui faire obtenir, soit pour elle même, soit pour autrui un emploi, une promotion, une récompense, une décoration, un avantage quelconque ou une décision favorable sera puni d'un emprisonnement de un à trois ans et d'une amende de 5. 000. 000 à 20. 000. 000 de francs. Quiconque aura usé de menace de sanctions, de sanctions effectives ou de pressions graves pour amener une personne placée sous son autorité à lui consentir des faveurs de nature sexuelle ou pour se venger de celle qui lui aura refusé de telles faveurs sera puni de deux à cinq ans d'emprisonnement et d'une amende de 10. 000. 000 à 50. 000. 000 de francs.
+
+## Article 2
+
+La présente Loi sera publiée au Journal Officiel de la République. Elle sera exécutée comme Loi de l'Etat. Antananarivo, le 12 octobre 2000 LE PRESIDENT DE l'ASSEMBLEE NATIONALE, LE SECRETAIRE,
+
+ANDRIANARISOA Ange C. F.
